@@ -1,0 +1,14 @@
+.logo-class{
+    height: 30px;
+    width: auto;
+}
+.custom-navbar{
+    background-color: #080808;
+    color: white;
+  
+    
+}
+.navbar .nav-link{
+    color: rgb(109, 109, 109);
+
+}
